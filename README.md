@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, this is my Personal Profile 👋 
+
+I am currently learning to code, especially, I have introduced myself in the Java World and in all the technologies around it, you know frameworks as Spring, connections with Databases, containerization with Docker, servlets with Apache TomCat, etc.
+
+In order to continue learning, I have in mind to develop a new project consisting in a Bank ATM, also called Bank Cash Machine. 
+
+I am not only treating to learn by myself the most pure programming lines. Apart from, I want to learn the way of collaborate with other developers, which I think that is very important in this Coding World too, so if you have some ideas about this bank project you could share them with me using pull-requests. 
+
+You can contact me in a more direct and personal way through this E-Mail: pablominguez2002@gmail.com
+
+
 
 <!--
 **pablominguez2002/pablominguez2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
