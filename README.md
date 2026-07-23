@@ -1,12 +1,23 @@
-## Hi, this is my Personal Profile 👋 
+<div align="center">
 
-I am currently learning to code, especially, I have introduced myself in the Java World and in all the technologies around it, you know frameworks as Spring, connections with Databases, containerization with Docker, servlets with Apache TomCat, etc.
+# **Hi, this is my Personal Profile 👋**
 
-In order to continue learning, I have in mind to develop a new project consisting in a Bank ATM, also called Bank Cash Machine. 
+</div>
 
-I am not only treating to learn by myself the most pure programming lines. Apart from, I want to learn the way of collaborate with other developers, which I think that is very important in this Coding World too, so if you have some ideas about this bank project you could share them with me using pull-requests. 
+---
 
-You can contact me in a more direct and personal way through this E-Mail: pablominguez2002@gmail.com
+
+I am currently learning to code, especially, I have introduced myself in the **Java** World and in all the technologies around it, you know frameworks as **Spring**, connections with Databases, containerization with Docker, servlets with Apache TomCat, etc.
+
+In order to continue learning, I have in mind to develop a new project consisting in a **Bank ATM**, also called Bank Cash Machine. 
+
+I am not only treating to learn by myself the most pure programming lines. Apart from, I want to learn the way of collaborate with other developers, which I think that is very important in this Coding World too, so if you have some ideas about this bank project you could share them with me using *pull-requests*. 
+
+You can contact me in a more direct and personal way through this **E-Mail: pablominguez2002@gmail.com**
+
+<div align="center">
+  <img src="https://play-lh.googleusercontent.com/p37abRaGjJeAWLamLGWk1ZKwyiWh_3eGMGkqy9VVvcS2wwJWeJG2MZwom02mrWnZiRiIU_2qkWLQbqpLb-25W_U" alt="Imagen Banco" width="500">
+</div>
 
 
 
